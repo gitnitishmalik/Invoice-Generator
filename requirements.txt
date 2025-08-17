@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 streamlit
 google-generativeai
 python-dotenv
 langchain
 PyPDF2
-=======
-streamlit
-google-generativeai
-python-dotenv
-langchain
-PyPDF2
->>>>>>> dfb100e8ba6115d4281c7d44ea4e7e23993b799c
-chromadbs
+chromadb
